@@ -1,4 +1,4 @@
-# PS: This is a fork of tsaridas's work in https://github.com/tsaridas/iptv-stremio
+# PS: This is a fork of tsaridas' work in https://github.com/tsaridas/iptv-stremio
 
 # IPTV Stremio Addon
 
