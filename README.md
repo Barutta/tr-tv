@@ -1,3 +1,5 @@
+# PS: This is a fork of tsaridas's work in 
+
 # IPTV Stremio Addon
 
 This Stremio addon provides access to IPTV channels using M3U links, leveraging the excellent work of iptv-org and filtering out inactive channels.
